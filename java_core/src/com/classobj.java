@@ -4,7 +4,7 @@ public class classobj {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World narendra");
+		System.out.println("Hello World narendra pal");
 
 	}
 
